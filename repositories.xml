@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[madprogrammer]]></name>
+    <description lang="en"><![CDATA[madprogrammer’ ebuilds]]></description>
+    <homepage>https://github.com/madprogrammer/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>serg@anufrienko.net</email>
+      <name><![CDATA[Sergey Anufrienko]]></name>
+    </owner>
+    <source type="git">https://github.com/madprogrammer/gentoo-overlay</source>
+  </repo>
+</repositories>
