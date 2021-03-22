@@ -2,7 +2,7 @@
 # Licensed under the EUPL
 
 EAPI=7
-PYTHON_COMPAT=(python{3_6,3_7})
+PYTHON_COMPAT=(python{3_6,3_7,3_8})
 
 if [[ ${PV} == 9999* ]]; then
 	EGIT_REPO_URI="https://github.com/certbot/certbot.git"
